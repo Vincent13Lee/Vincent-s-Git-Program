@@ -4,3 +4,4 @@ New branch test.
 Creating a new branch is quick and simple.
 Modify this file.
 Another test.
+Bug test +1.
